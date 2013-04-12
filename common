@@ -1,0 +1,9 @@
+----------------------------------------------------------------------
+Compile objective-c using gcc or clang
+"$CC -framework foundation -x objective-c $source_file -o $obj_file"
+where $CC is gcc or clang
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+The string content in json should be wraped by 
