@@ -6,4 +6,13 @@ where $CC is gcc or clang
 
 
 ----------------------------------------------------------------------
-The string content in json should be wraped by 
+The string content in json should be wraped by double quotes '"'.
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+How to cofig the user info for git
+"git config user.name $name"
+"git config user.email $email"
+And you can check thse info by using "git config --list"
+----------------------------------------------------------------------
